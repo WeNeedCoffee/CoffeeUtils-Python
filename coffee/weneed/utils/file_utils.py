@@ -1,5 +1,5 @@
 import os
-from string_utils import StringUtils
+from coffee.weneed.utils.string_utils import StringUtils
 class FileUtils:
     """
     A utility class for working with files.
