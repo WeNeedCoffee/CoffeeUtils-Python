@@ -1,3 +1,5 @@
 dist/*
 coffee_utils.egg-info/*
 tests/*
+test.py
+*__pycache__*
